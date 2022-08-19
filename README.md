@@ -2,7 +2,9 @@
 
 The question is described in these Videos from Mr. Weinberg: 
 
-[Video 1](https://youtu.be/e2xGct1VtUk) and [Video 2](https://youtu.be/P6WIrlO7Vno)
+[Video 1](https://youtu.be/e2xGct1VtUk) (7:30) and [Video 2](https://youtu.be/P6WIrlO7Vno) (10:35)
+
+We also have an [API description](https://docs.google.com/document/d/1n-AdkuavroyMzPZWvsoFD0uzaaGQqKvkenOW4S6F15o/edit) (incomplete Application Programming Interface) and a [student starter code](https://docs.google.com/document/d/1wTmN4Vld7YhsWqiCh0UvgKstFQewss1yAlwlfFfodJM/edit).
 
 The task: Fix Mr. Weinbergs code for the micro:bit to detect shocks and protect the eggs.
 
@@ -132,3 +134,7 @@ function printAccelerationString(values: number[]) {
     serial.writeLine(accelString)
 }
 ```
+
+## Working Solution
+
+You should work this out on your own ;)
