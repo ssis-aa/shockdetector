@@ -252,8 +252,3 @@ function printAccelerationString(values: number[]) {
     serial.writeLine(accelString)
 
 }
-
-
-
-
-
